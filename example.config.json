@@ -1,0 +1,6 @@
+{
+  "token": "Token of the telegram bot",
+  "chat_id": -1,
+  "max_caption_length": 500,
+  "max_photo_size": 500000
+}
